@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadagalberto&langs_count=6&layout=compact&theme=dark" align="right">
 
 <h3>🧑🏻‍💻 Bem vindo ao meu GitHub!</h3>
