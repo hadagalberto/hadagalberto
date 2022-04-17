@@ -2,4 +2,4 @@
 
 <h3>🧑🏻‍💻 Bem vindo ao meu GitHub!</h3>
 <hr>
-Sou desenvolvedor de software, trabalho principalmente com a stack .net, atualmente sou colaborador na <a href="https://www.implantainfo.com.br/" target="_blank">Implanta Informática</a>, lá desenvolvo novas funcionalidades e corrijo bugs em sistemas web voltados para conselhos profissionais.
+<p align="justify">Sou desenvolvedor de software, trabalho principalmente com a stack .net, atualmente sou colaborador na <a href="https://www.implantainfo.com.br/" target="_blank">Implanta Informática</a>, onde faço evoluções e manutenções em sistemas web voltados para conselhos profissionais.</p>
