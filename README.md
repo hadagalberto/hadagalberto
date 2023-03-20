@@ -6,5 +6,3 @@
 
 <br>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hadagalberto&color=blueviolet" alt="Profile views"/> </p>
-  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=hadagalberto&theme=gotham&hide_border=true&area=true)
